@@ -1,0 +1,232 @@
+/* =====================home page responsive css start============================== */
+
+
+/* ============================1440px start======================== */
+@media (min-width: 1199px) and (max-width: 1600px) {
+    
+/* ============================1440px end======================== */
+}
+
+/* =============================1199px start====================== */
+@media only screen and (max-width: 1199px){
+    
+/* =============================1199px end====================== */
+}
+
+
+/* =============================1024px start====================== */
+@media only screen and (max-width: 1024px){
+    .video {
+        padding: 85px 0;
+    }
+    .our_expert {
+        padding: 85px;
+    }
+    .specialize {
+        padding: 85px 0;
+    }
+    .Reference {
+        padding: 85px;
+    }
+    .testimonials {
+        padding: 85px 0;
+    }
+    .our_team {
+        padding: 85px;
+    }
+    .join_us {
+        padding: 85px 0;
+    }
+
+/* =============================1024px end======================== */
+}
+
+/* =============================991px start====================== */
+@media only screen and (max-width: 991px){
+
+   
+    .header .navbar .navbar-collapse .navbar-nav li {
+        padding-left: 0;
+    }
+    .baner .bnr_wrap .left .bnr_btn a:first-child {
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    .baner .bnr_wrap .left h1 {
+        font-size: 45px;
+        line-height: 1.2;
+        margin-bottom: 15px;
+    }
+    .video {
+        padding: 45px 0;
+    }
+    .our_expert {
+        padding:  0;
+    }
+    .specialize {
+        padding: 45px 0;
+    }
+    .specialize .titel {
+        margin-bottom: 45px;
+    }
+    .specialize .specialize_wrap {
+        row-gap: 35px;
+    }
+    .Reference {
+        padding: 45px 0;
+    }
+    .Reference .Reference_wrap {
+        row-gap: 35px;
+    }
+    .Reference .titel {
+        padding-left: 0;
+    }
+    .Reference .titel h2 {
+        margin-bottom: 20px;
+    }
+    .Reference .titel p {
+        margin-bottom: 15px;
+    }
+    .testimonials {
+        padding: 45px 0;
+    }
+    .testimonials .titel {
+        margin-bottom: 75px;
+    }
+    .our_team {
+        padding: 45px 0;
+    }
+    .our_team .titel {
+        padding-bottom: 80px;
+    }
+    .our_team .team_wrap {
+        row-gap: 35px;
+    }
+    .join_us {
+        padding: 45px 0;
+    }
+    .join_us .join_form {
+        margin-top: 45px;
+    }
+    .footer .foter_wrap {
+        row-gap: 35px;
+    }
+    .footer .foter_wrap .foter_part {
+        width: 33.3%;
+    }
+    .footer .foter_wrap .foter_part h4 {
+        margin-bottom: 10px;
+    }
+    
+/* =============================991px end======================== */
+}
+
+
+/* =============================767px start====================== */
+@media only screen and (max-width: 767px){
+    .titel h2 {
+        font-size: 35px !important;
+        line-height: 1.2;
+        margin-bottom: 0;
+    }
+    .detail {
+        padding: 45px 0;
+    }
+    .video {
+        padding: 45px 0;
+    }
+    .video .video_wrap .video_text h2 {
+        font-size: 35px;
+        line-height: 1.2;
+    }
+    .video .video_wrap {
+        row-gap: 35px;
+    }
+    .video .video_wrap .video_text {
+        padding-left: 0;
+    }
+    .our_expert {
+        padding: 45px 0;
+    }
+    .our_expert .titel {
+        margin-top: 45px;
+    }
+    .our_expert .expert_wrap .expert_detail {
+        margin: 0;
+    }
+    .our_expert .expert_wrap {
+        row-gap: 35px;
+    }
+    .specialize {
+        padding: 45px 0;
+    }
+    .specialize .titel {
+        margin-bottom: 45px;
+    }
+    .Reference {
+        padding: 45px;
+    }
+    .Reference .titel {
+        padding-left: 0;
+    }
+    .Reference .titel h2 {
+        margin-bottom: 10px;
+    }
+    /* .Reference .titel h2 {
+        font-size: 35px;
+        line-height: 1.2;
+    } */
+    .testimonials {
+        padding: 45px 0;
+    }
+    .testimonials .titel {
+        margin-bottom: 45px;
+    }
+    .our_team {
+        padding: 45px 0;
+    }
+    .our_team .titel {
+        padding-bottom: 40px;
+    }
+    .join_us {
+        padding: 45px 0;
+    }
+    .footer .foter_wrap .foter_part {
+        width: 100%;
+    }
+   
+/* =============================767px end======================== */
+}
+
+
+/* =============================575px start====================== */
+@media only screen and (max-width: 575px){
+    .video {
+        padding: 0;
+    }
+    .our_expert {
+        padding: 0;
+    }
+    .video .video_wrap .video_text h2 {
+        font-size: 30px;
+        line-height: 1.2;
+        margin-bottom: 15px;
+    }
+    .titel h2 {
+        font-size: 30px !important;
+        line-height: 1.2;
+    }
+    .Reference .titel h2 {
+        line-height: 1.2;
+    }
+   
+    
+/* =============================575px end======================== */
+}
+
+/* =============================480px start====================== */
+@media only screen and (max-width: 480px){
+  
+    
+/* =============================480px end======================== */
+}
